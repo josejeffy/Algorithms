@@ -1,3 +1,5 @@
+//Sieve of Eratosthenes
+
 #include <stdio.h>
 
 #define N 100
